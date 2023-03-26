@@ -15,7 +15,7 @@
 ## 1. 機体を組み立てよう
 LEGO SPIKEというLEGO社が発売している教育向けロボットキットを使います．
 ![img000](img/img000.png)
-[テキスト1](https://education.lego.com/v3/assets/blt293eea581807678a/blte58422fa7d508a60/5f8802b882eaa522ca601c9f/driving-base-bi-pdf-book1of1.pdf), [テキスト2](https://education.lego.com/v3/assets/blt293eea581807678a/blt4bbe3f59ee1a3097/5f88024bde194e1bde3f0844/driving-base-tools-accessories-bi-pdf-book1of1.pdf)を参考に機体を組み立てましょう．
+[本体のテキスト](https://education.lego.com/v3/assets/blt293eea581807678a/blte58422fa7d508a60/5f8802b882eaa522ca601c9f/driving-base-bi-pdf-book1of1.pdf), [アームのテキスト](https://education.lego.com/v3/assets/blt293eea581807678a/blt4bbe3f59ee1a3097/5f88024bde194e1bde3f0844/driving-base-tools-accessories-bi-pdf-book1of1.pdf)，[色センサのテキスト](https://education.lego.com/v3/assets/blt293eea581807678a/bltc7abeab0450c5a27/5f880246e787ed1c02270883/driving-base-with-color-sensor-bi-pdf-book1of1.pdf)を参考に機体を組み立てましょう．
 
 ## 2. Scratchで簡単に動かしてみよう
 ### 2-1. Scratchって何？
